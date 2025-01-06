@@ -15,4 +15,4 @@ This is a simple **Password Generator** built using React.js. It allows users to
 ## How to Run the Application
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ChahatShah13/PasswordGenerator_React/tree/main

@@ -55,8 +55,8 @@ function App() {
               Copy
             </button>
           </div>
-          <div className="flex text-sm gap-x-2">
-            <div className="flex items-center gap-x-1">
+          <div className="flex flex-wrap text-sm gap-x-2">
+            <div className="flex items-center flex-wrap gap-x-1">
               <input
                 type="range"
                 min={8}
